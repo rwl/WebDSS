@@ -8,6 +8,14 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>DSS Web Application</name>
 
+  <licenses>
+    <license>
+      <name>BSD</name>
+      <url>http://www.opensource.org/licenses/BSD-3-Clause</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <vaadin.version>6.7.1</vaadin.version>
