@@ -1,0 +1,12 @@
+WebDSS
+======
+
+DSS web application.
+
+Maven
+-----
+
+  mvn eclipse:eclipse
+  mvn vaadin:update-widgetset
+  mvn gwt:compile
+
